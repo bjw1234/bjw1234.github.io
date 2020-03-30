@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.baijiawei.top</id>
     <title>Jevon.bai</title>
-    <updated>2020-03-30T11:27:09.188Z</updated>
+    <updated>2020-03-30T11:30:18.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.baijiawei.top"/>
     <link rel="self" href="https://www.baijiawei.top/atom.xml"/>
@@ -10,4 +10,15 @@
     <logo>https://www.baijiawei.top/images/avatar.png</logo>
     <icon>https://www.baijiawei.top/favicon.ico</icon>
     <rights>All rights reserved 2020, Jevon.bai</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://www.baijiawei.top/post/test/</id>
+        <link href="https://www.baijiawei.top/post/test/">
+        </link>
+        <updated>2020-03-30T11:29:18.000Z</updated>
+        <content type="html"><![CDATA[<p>test hello</p>
+<pre><code class="language-js">console.log('test');
+</code></pre>
+]]></content>
+    </entry>
 </feed>
